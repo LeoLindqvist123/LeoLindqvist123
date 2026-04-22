@@ -1,4 +1,4 @@
-# Hello Eveyone:
+# Hello Everyone:
 <br><br>I'm a MLOps Engineering student at Nackademin in Stockholm, Sweden, <br>working towards becoming a MLOps, DevOps & Cloud Engineer.<br><br>I work with the full ML lifecycle  from data processing and model development to deployment, <br>monitoring and cloud infrastructure. My projects span Python, FastAPI, Docker, Kubernetes, <br>AWS and React Native.
 
 
@@ -17,3 +17,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoLindqvist123&show_icons=true&theme=dark)
