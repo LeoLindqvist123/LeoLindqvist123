@@ -18,6 +18,16 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats
+## 🛠️ Recent Projects
 
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoLindqvist123&show_icons=true&theme=dark)
+### 🚕 Taxi Price Prediction
+Fullstack ML application that predicts taxi prices based on distance, weather and traffic conditions.
+Built with Python, FastAPI, Linear Regression and Streamlit.
+
+### 🤖 Customer Support Agent
+AI-powered customer support agent using FastAPI, PydanticAI and MLflow for prompt management and monitoring.
+Deployed with Docker on AWS.
+
+### 🍎 FoodSmart
+Full-stack iPhone app for meal planning and nutrition tracking.
+Built with FastAPI, React Native, PyTorch and Supabase.
