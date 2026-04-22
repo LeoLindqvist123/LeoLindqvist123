@@ -4,7 +4,6 @@
 # Hello Everyone:
 <br><br>I'm a MLOps Engineering student at Nackademin in Stockholm, Sweden, <br>working towards becoming a MLOps, DevOps & Cloud Engineer.<br><br>I work with the full ML lifecycle  from data processing and model development to deployment, <br>monitoring and cloud infrastructure. My projects span Python, FastAPI, Docker, Kubernetes, <br>AWS and React Native.
 
-
 ## 🚀 Some Tools I Have Used and Learned
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
