@@ -18,12 +18,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-## 🛠️ Recent Projects
+## Recent Projects:
 
-### 🚕 Taxi Price Prediction
+### Taxi Price Prediction
 Fullstack ML application that predicts taxi prices based on distance, weather and traffic conditions.
 Built with Python, FastAPI, Linear Regression and Streamlit.
 
-### 🍎 FoodSmart
+### FoodSmart
 Full-stack iPhone app for meal planning and nutrition tracking.
 Built with FastAPI, React Native, PyTorch and Supabase.
