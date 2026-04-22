@@ -24,10 +24,6 @@
 Fullstack ML application that predicts taxi prices based on distance, weather and traffic conditions.
 Built with Python, FastAPI, Linear Regression and Streamlit.
 
-### 🤖 Customer Support Agent
-AI-powered customer support agent using FastAPI, PydanticAI and MLflow for prompt management and monitoring.
-Deployed with Docker on AWS.
-
 ### 🍎 FoodSmart
 Full-stack iPhone app for meal planning and nutrition tracking.
 Built with FastAPI, React Native, PyTorch and Supabase.
