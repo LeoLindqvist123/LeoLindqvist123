@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Cloud platforms, terraform**
 
-- 📫 How to reach me **leolikro01@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
