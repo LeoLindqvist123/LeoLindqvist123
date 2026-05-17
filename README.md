@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo Lindqvist Kröhnert</h1>
-<h3 align="center">Iam a MLOps engineer student, but also looking in to devops, cloud engineering</h3>
+<h3 align="center">Iam a MLOps engineer student at Nackademin, but also looking in to devops, cloud engineering</h3>
 
 - 🔭 I’m currently working on **Many projects**
 
