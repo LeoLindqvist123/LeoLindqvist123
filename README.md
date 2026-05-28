@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Many projects**
 
-- 🌱 I’m currently learning **Cloud platforms, terraform**
+- 🌱 I’m currently learning **100 Days of Code™: The Complete Python Pro Bootcamp**
 
 <p align="left">
 </p>
