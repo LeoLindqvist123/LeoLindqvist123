@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo Lindqvist Kröhnert</h1>
 <h3 align="center">Iam a MLOps engineer student at Nackademin, but also looking in to devops, cloud engineering</h3>
 
-- 🔭 I’m currently working on **Many projects**
+- 🔭 I’m currently working on **Making my own app**
 
 - 🌱 I’m currently learning **100 Days of Code™: The Complete Python Pro Bootcamp** and **Python for Data Science and Machine Learning Bootcamp**
 
