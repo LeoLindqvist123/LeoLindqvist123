@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on **Many projects**
 
-- 🌱 I’m currently learning **100 Days of Code™: The Complete Python Pro Bootcamp**
+- 🌱 I’m currently learning **100 Days of Code™: The Complete Python Pro Bootcamp**, **Python for Data Science and Machine Learning Bootcamp**
+
 
 <p align="left">
 </p>
